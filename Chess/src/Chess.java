@@ -7,6 +7,7 @@ class ChessBoard
 	
 	ChessBoard()
 	{
+		//the true or false statements still need to be eddited
 		square[0]  = new ChessBoardSquare(1, 1, true);
 		square[1]  = new ChessBoardSquare(2, 1, true);
 		square[2]  = new ChessBoardSquare(3, 1, true);
